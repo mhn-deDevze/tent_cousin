@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mhn-dedevze.github.io/tent_cousin/sitemap.xml

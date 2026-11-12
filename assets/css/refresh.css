@@ -1,0 +1,19 @@
+/* Shared visual refinement for the existing service and article pages. */
+:root{--color-primary:#293f35;--color-dark-navy:#293f35;--color-cream:#f7f5ee;--color-gold:#a38147;--color-gold-btn:#293f35;--color-text-body:#686e65}body{background:#f7f5ee}.site-header{background:#fffefa;box-shadow:0 1px 0 #dedfd3}.brand-logo-img,.footer-logo-img,.drawer-logo-img{border:0!important;border-radius:14px!important;box-shadow:none!important}.elementor-button,.header-phone-btn{border-radius:7px;box-shadow:none;font-family:'Cairo',sans-serif}.btn-gold,.header-phone-btn{background:#293f35!important}.zoom-pulse-button,.zoom-pulse-button:before,.anim-halo-pulse{animation:none!important}.feature-media-box,.contact-media-box{border-width:1px!important;border-color:#d5d7c7!important;border-radius:14px!important;box-shadow:none!important}.dark-grid-section,.gallery-section-dark{background:#293f35}.dark-card-item{border:1px solid #dedfd3;border-radius:12px;box-shadow:none}.dark-card-img{box-shadow:none;border-radius:0}.dark-card-title{font-size:23px}.dark-card-desc,.feature-text-box .elementor-widget-text-editor p{font-size:18px;line-height:1.9}.feature-text-box h2.elementor-heading-title{font-size:34px;line-height:1.7}.gallery-item{border:0;border-radius:12px;box-shadow:none}.contact-form-wrapper{border:1px solid #dedfd3;box-shadow:none;border-radius:12px}.form-control{border:1px solid #c7cbbd}.site-footer{background:#293f35!important}.section-feature-row{padding-block:75px}.reveal-on-scroll{opacity:1!important;transform:none!important;filter:none!important}.header-logo:after{content:'مؤسسة محمد ملفى المطيري';font-size:13px;font-weight:800;margin-right:10px;max-width:150px}.header-inner{gap:15px}.elementor-nav-menu,.nav-menu{gap:12px}.elementor-item,.nav-item a{font-size:13px;padding-inline:5px}.subpage-header{background:#293f35!important}.floating-action-btn{box-shadow:0 4px 15px #293f3520}
+@media(max-width:860px){.header-logo:after{font-size:11px;max-width:130px}.header-inner{gap:9px}.feature-text-box h2.elementor-heading-title{font-size:26px}.section-feature-row{padding-block:48px}}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation:none!important;transition:none!important}}
+/* Local glyphs keep essential controls visible when the icon CDN is unavailable. */
+.fa-bars::before{content:'☰'!important;font-family:Arial,sans-serif!important}.fa-phone-alt::before,.fa-phone::before{content:'☎'!important;font-family:Arial,sans-serif!important}.fa-whatsapp::before{content:'واتساب'!important;font-family:Tahoma,sans-serif!important;font-size:9px;font-weight:700}.fa-sms::before{content:'SMS'!important;font:10px Arial,sans-serif!important}.fa-times::before{content:'×'!important;font-family:Arial,sans-serif!important}
+
+/* Footer contrast: the service and article pages use a dark green surface. */
+.site-footer{color:#f7f5ee}
+.site-footer .footer-col-title{color:#fffefa}
+.site-footer .footer-icon-item,
+.site-footer .footer-icon-item a,
+.site-footer .footer-icon-item span,
+.site-footer .footer-logo-desc{color:#e3e8dd}
+.site-footer .footer-icon-item i{color:#dbc597!important}
+.site-footer .footer-col-title::after{background:#dbc597}
+.site-footer a:hover,.site-footer .footer-icon-item a:hover{color:#f0d6a2}
+.site-footer a:focus-visible{outline:2px solid #f0d6a2;outline-offset:5px}
+.subfooter-gold-bar{background:#21342b;color:#f7f5ee;border-top:1px solid #52604d}
+.subfooter-gold-bar a{color:#fffefa}
