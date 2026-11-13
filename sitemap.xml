@@ -1,51 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mhn-dedevze.github.io/tent_cousin/</loc>
-    <lastmod>2026-10-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <loc>https://tentandshade.com/blog-details-1</loc>
+    <lastmod>2026-11-13</lastmod>
   </url>
   <url>
-    <loc>https://mhn-dedevze.github.io/tent_cousin/majalis.html</loc>
-    <lastmod>2026-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <loc>https://tentandshade.com/blog-details-2</loc>
+    <lastmod>2026-11-13</lastmod>
   </url>
   <url>
-    <loc>https://mhn-dedevze.github.io/tent_cousin/curtains.html</loc>
-    <lastmod>2026-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <loc>https://tentandshade.com/blog-details-3</loc>
+    <lastmod>2026-11-13</lastmod>
   </url>
   <url>
-    <loc>https://mhn-dedevze.github.io/tent_cousin/installation.html</loc>
-    <lastmod>2026-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://tentandshade.com/blog</loc>
+    <lastmod>2026-11-13</lastmod>
   </url>
   <url>
-    <loc>https://mhn-dedevze.github.io/tent_cousin/blog.html</loc>
-    <lastmod>2026-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://tentandshade.com/curtains</loc>
+    <lastmod>2026-11-13</lastmod>
   </url>
   <url>
-    <loc>https://mhn-dedevze.github.io/tent_cousin/blog-details-1.html</loc>
-    <lastmod>2026-10-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://tentandshade.com/</loc>
+    <lastmod>2026-11-13</lastmod>
   </url>
   <url>
-    <loc>https://mhn-dedevze.github.io/tent_cousin/blog-details-2.html</loc>
-    <lastmod>2026-10-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://tentandshade.com/installation</loc>
+    <lastmod>2026-11-13</lastmod>
   </url>
   <url>
-    <loc>https://mhn-dedevze.github.io/tent_cousin/blog-details-3.html</loc>
-    <lastmod>2026-10-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://tentandshade.com/majalis</loc>
+    <lastmod>2026-11-13</lastmod>
+  </url>
+  <url>
+    <loc>https://tentandshade.com/privacy</loc>
+    <lastmod>2026-11-13</lastmod>
   </url>
 </urlset>

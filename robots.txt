@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mhn-dedevze.github.io/tent_cousin/sitemap.xml
+Sitemap: https://tentandshade.com/sitemap.xml
